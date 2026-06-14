@@ -2,8 +2,6 @@
 
 An [Appinapp](https://appinapp.mutawirr.uz) desktop widget that renders your GitHub contribution graph for the current year, right on your macOS desktop.
 
-![screenshot](https://raw.githubusercontent.com/developerbola/github.widget/refs/heads/main/screenshot.png)
-
 ## Features
 
 - Renders the current year's contribution calendar as a GitHub-style heatmap grid (7 rows, one column per week).
