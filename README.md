@@ -2,7 +2,7 @@
 
 An [Appinapp](https://appinapp.mutawirr.uz) desktop widget that renders your GitHub contribution graph for the current year, right on your macOS desktop.
 
-![screenshot](https://github.com/developerbola/github.widget/blob/main/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/developerbola/github.widget/refs/heads/main/screenshot.png)
 
 ## Features
 
